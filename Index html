@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSS - Sunrise Solar Services Nanded</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">SSS<span>.</span></div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header id="home" class="hero">
+        <div class="hero-content">
+            <h1>Switch to <span>Solar Energy</span></h1>
+            <p>On-Grid, Off-Grid & Hybrid Solar Solutions in Nanded & Deglur.</p>
+            <a href="https://wa.me/91XXXXXXXXXX" class="btn-main">Get Free Quote</a>
+        </div>
+    </header>
+
+    <section id="services" class="services">
+        <h2 class="section-title">Our Specialist Services</h2>
+        <div class="service-grid">
+            <div class="service-card">
+                <div class="icon">🚀</div>
+                <h3>New Installation</h3>
+                <p>Complete setup for residential and commercial projects.</p>
+            </div>
+            <div class="service-card">
+                <div class="icon">🔌</div>
+                <h3>On-Grid Solar</h3>
+                <p>Save on electricity bills by connecting with the main grid.</p>
+            </div>
+            <div class="service-card">
+                <div class="icon">🔋</div>
+                <h3>Hybrid Solar</h3>
+                <p>Battery backup + Grid connectivity for 24/7 power.</p>
+            </div>
+            <div class="service-card">
+                <div class="icon">🧽</div>
+                <h3>Panel Cleaning</h3>
+                <p>Professional cleaning to maintain 100% efficiency.</p>
+            </div>
+            <div class="service-card">
+                <div class="icon">🛠️</div>
+                <h3>Maintenance</h3>
+                <p>Routine service and repair for long-term durability.</p>
+            </div>
+            <div class="service-card">
+                <div class="icon">🔍</div>
+                <h3>System Checking</h3>
+                <p>Deep health checkup of your existing solar plant.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact" class="footer">
+        <div class="footer-container">
+            <div class="footer-info">
+                <h3>Sunrise Solar Services</h3>
+                <p><strong>Address:</strong> Nanded - Deglur Road, Maharashtra.</p>
+                <p><strong>Email:</strong> info@sunrisepower.com</p>
+                <p><strong>Phone:</strong> +91 XXXXXXXXXX</p>
+            </div>
+            <div class="footer-social">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                    <a href="https://instagram.com/Sunrise_solar_services_Nanded">Instagram</a>
+                    <a href="#">YouTube</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 SSS - All Rights Reserved</p>
+        </div>
+    </footer>
+
+    <a href="https://wa.me/91XXXXXXXXXX" class="whatsapp-btn" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+    </a>
+
+</body>
+</html>
